@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.signerror {
+  -fx-text-box-border: red ;
+  -fx-focus-color: red ;
+}
